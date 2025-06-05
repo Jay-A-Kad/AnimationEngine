@@ -10,9 +10,9 @@
     },
     "samples": [
         {
-            "displayName": "Example Character Script",
-            "description": "Basic usage script for triggering animations with tags",
-            "path": "Samples~"
+            "displayName": "Pre-filled Tag Database",
+            "description": "TagDatabase with male and female animation clips assigned.",
+            "path": "Samples~/PreFilledDatabase"
         }
     ],
     "keywords": [

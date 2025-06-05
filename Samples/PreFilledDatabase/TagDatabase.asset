@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8393eb2fee5c4afe9f8e1d2606be193, type: 3}
+  m_Name: TagDatabase
+  m_EditorClassIdentifier: 
+  animations:
+  - tag: idle
+    clip: {fileID: 7400000, guid: 98f5f653c3db54051a4ed9b8f7e16a27, type: 2}
+  - tag: walk
+    clip: {fileID: 7400000, guid: 95c07949ae49348d6941098e024683bc, type: 2}
+  - tag: run
+    clip: {fileID: 7400000, guid: 14b6c0cd1d6784df4a367adce3f00d71, type: 2}
+  - tag: jump
+    clip: {fileID: 7400000, guid: 5e352128b8ba849449ffb7e9feda7747, type: 2}
+  - tag: talk
+    clip: {fileID: 0}
+  - tag: wave
+    clip: {fileID: 0}
+  - tag: surprised
+    clip: {fileID: 0}
+  - tag: crouch
+    clip: {fileID: 0}
