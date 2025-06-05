@@ -17,5 +17,9 @@
         "runtime",
         "editor"
     ],
-    "type": "tool"
+    "type": "tool",
+    "asmdef": [
+        "Runtime/AnimationEngine.asmdef",
+        "Editor/AnimationEngine.Editor.asmdef"
+    ]
 }

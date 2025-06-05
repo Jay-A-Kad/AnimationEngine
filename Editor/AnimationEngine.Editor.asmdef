@@ -1,0 +1,9 @@
+{
+    "name": "AnimationEngine.Editor",
+    "references": [
+        "AnimationEngine.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ]
+}
