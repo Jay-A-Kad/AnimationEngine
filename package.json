@@ -3,26 +3,19 @@
     "displayName": "Animation Engine",
     "version": "1.0.0",
     "unity": "2020.3",
-    "description": "Tag-based animation controller system for humanoid characters",
+    "description": "Tag-based animation controller system for humanoid characters. Simplifies character animation using named tags for script and event-driven playback.",
     "author": {
         "name": "Jay Kadam",
+        "email": "jaykad982@gmail.com",
         "url": "https://github.com/Jay-A-Kad/AnimationEngine.git"
     },
-    "samples": [
-        {
-            "displayName": "Pre-filled Tag Database",
-            "description": "TagDatabase with male and female animation clips assigned.",
-            "path": "Samples~/PreFilledDatabase"
-        }
-    ],
     "keywords": [
         "animation",
+        "character",
         "controller",
-        "unity",
+        "tag",
         "runtime",
-        "editor",
-        "tag-based",
-        "humanoid"
+        "editor"
     ],
-    "type": "library"
+    "type": "tool"
 }
