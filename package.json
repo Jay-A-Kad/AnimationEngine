@@ -1,0 +1,18 @@
+{
+    "name": "com.jayakad.animationengine",
+    "displayName": "Animation Engine",
+    "version": "1.0.0",
+    "unity": "2020.3",
+    "description": "Tag-based animation controller system for humanoid characters",
+    "author": {
+        "name": "Jay kadam",
+        "url": "https://github.com/Jay-A-Kad/AnimationEngine.git"
+    },
+    "samples": [
+        {
+            "displayName": "Example Character Script",
+            "description": "Basic usage script for triggering animations with tags",
+            "path": "Samples~"
+        }
+    ]
+}
