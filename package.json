@@ -5,7 +5,7 @@
     "unity": "2020.3",
     "description": "Tag-based animation controller system for humanoid characters",
     "author": {
-        "name": "Jay kadam",
+        "name": "Jay Kadam",
         "url": "https://github.com/Jay-A-Kad/AnimationEngine.git"
     },
     "samples": [
@@ -14,5 +14,15 @@
             "description": "Basic usage script for triggering animations with tags",
             "path": "Samples~"
         }
-    ]
+    ],
+    "keywords": [
+        "animation",
+        "controller",
+        "unity",
+        "runtime",
+        "editor",
+        "tag-based",
+        "humanoid"
+    ],
+    "type": "library"
 }

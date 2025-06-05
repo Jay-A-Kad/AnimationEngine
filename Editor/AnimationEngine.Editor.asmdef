@@ -1,0 +1,13 @@
+{
+    "name": "AnimationEngine.Editor",
+    "rootNamespace": "",
+    "references": [
+        "AnimationEngine.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "autoReferenced": true
+}
